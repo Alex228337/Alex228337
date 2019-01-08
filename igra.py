@@ -25,3 +25,4 @@ def duel(a,b):
 		Def=t
 duel(a, b)
 input()
+print('tanya gopa')
